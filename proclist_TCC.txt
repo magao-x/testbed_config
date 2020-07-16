@@ -1,6 +1,4 @@
 # Processes for configuration to exercise magaoxMaths
 # Process-ID            Executable
-isTCC                    xindiserver
-maths_x                 magAOXMaths
-maths_y                 magAOXMaths
-timeSeriesSimulator     timeSeriesSimulator
+isTCC                   xindiserver
+camtip                 baslerCtrl
