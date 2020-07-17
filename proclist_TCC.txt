@@ -1,4 +1,5 @@
 # Processes for configuration to exercise magaoxMaths
 # Process-ID            Executable
 isTCC                   xindiserver
+pdu0                    trippLitePDU
 camtip                 baslerCtrl
