@@ -2,4 +2,10 @@
 # Process-ID            Executable
 isTCC                   xindiserver
 pdu0                    trippLitePDU
-camtip                 baslerCtrl
+usbdu0                  acronameUsbHub
+camtip                  baslerCtrl
+camsci                  baslerCtrl
+camzyla                 zylaCtrl
+mzmqServerTCC           mzmqServer
+dmkilo                  bmcCtrl
+kiloModes               dmMode
