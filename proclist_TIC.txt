@@ -1,6 +1,6 @@
 # Processes for configuration to exercise magaoxMaths
 # Process-ID            Executable
-isTCC                   xindiserver
+isTIC                   xindiserver
 pdu0                    trippLitePDU
 usbdu0                  acronameUsbHub
 camtip                  baslerCtrl
