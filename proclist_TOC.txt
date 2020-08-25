@@ -1,3 +1,5 @@
 #process-ID    Executable
+pdu0           trippLitePDU
 isTOC          xindiserver
 toc_tic_indi   sshDigger
+mzmqClientTOC_TIC mzmqClient
