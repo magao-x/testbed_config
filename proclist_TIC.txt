@@ -6,6 +6,7 @@ usbdu0                  acronameUsbHub
 camtip                  baslerCtrl
 camsci                  baslerCtrl
 camzyla                 zylaCtrl
-mzmqServerTCC           mzmqServer
+mzmqServerTIC           mzmqServer
 dmkilo                  bmcCtrl
 kiloModes               dmMode
+tic_toc_indi            sshDigger
