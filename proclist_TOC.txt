@@ -2,5 +2,6 @@
 pdu0              trippLitePDU
 isTOC             xindiserver
 toc_tic_indi      sshDigger
-toc_tic_milkzmq   sshDigger
 mzmqClientTOC_TIC mzmqClient
+toc_tic_milkzmq   sshDigger
+toc_tic_jupyterlab sshDigger
