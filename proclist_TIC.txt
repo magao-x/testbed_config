@@ -3,7 +3,9 @@
 isTIC                   xindiserver
 usbdu0                  acronameUsbHub
 camtip                  baslerCtrl
+camtip-dark             shmimIntegrator
 camsci                  baslerCtrl
+camsci-dark             shmimIntegrator
 camzyla                 zylaCtrl
 camzyla-dark            shmimIntegrator
 mzmqServerTIC           mzmqServer
