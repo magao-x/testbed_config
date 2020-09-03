@@ -5,6 +5,7 @@ usbdu0                  acronameUsbHub
 camtip                  baslerCtrl
 camsci                  baslerCtrl
 camzyla                 zylaCtrl
+camzyla-dark            shmimIntegrator
 mzmqServerTIC           mzmqServer
 dmkilo                  bmcCtrl
 kiloModes               dmMode
