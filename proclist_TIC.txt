@@ -8,6 +8,7 @@ camsci                  baslerCtrl
 camsci-dark             shmimIntegrator
 camzyla                 zylaCtrl
 camzyla-dark            shmimIntegrator
+camzyla-sw		streamWriter
 mzmqServerTIC           mzmqServer
 dmkilo                  bmcCtrl
 kiloModes               dmMode
