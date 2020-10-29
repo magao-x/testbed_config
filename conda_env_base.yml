@@ -14,8 +14,9 @@ dependencies:
   - numexpr
   - Pillow
   - pip
-  - pytest
   - nb_conda_kernels
+  - pytest
+  - psutil
   - cupy
   - cudatoolkit=10.1
   - line_profiler
