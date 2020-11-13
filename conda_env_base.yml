@@ -13,6 +13,7 @@ dependencies:
   - matplotlib
   - numexpr
   - Pillow
+  - scikit-image
   - pip
   - nb_conda_kernels
   - pytest
@@ -52,3 +53,5 @@ dependencies:
       - aiortc
       - python-engineio
       - python-socketio
+      - starlette
+      - uvicorn

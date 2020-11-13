@@ -183,13 +183,25 @@ dependencies:
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.5=h6597ccf_2
   - pip:
+    - aiodns==2.0.0
+    - aiohttp==3.7.2
     - aioice==0.6.18
     - aiortc==1.0.0
+    - async-timeout==3.0.1
+    - click==7.1.2
+    - h11==0.11.0
     - hcipy==0.3.1
+    - imagestreamiowrap==1.0.0
+    - multidict==5.0.0
     - netifaces==0.10.9
     - poppy==0.9.1
+    - pycares==3.1.1
     - pylibsrtp==0.6.7
     - python-engineio==3.13.2
     - python-socketio==4.6.0
+    - starlette==0.13.8
+    - typing-extensions==3.7.4.3
+    - uvicorn==0.12.2
     - xxhash==2.0.0
+    - yarl==1.6.2
 prefix: /opt/miniconda3
