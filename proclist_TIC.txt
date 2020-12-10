@@ -9,6 +9,9 @@ camsci-dark             shmimIntegrator
 camzyla                 zylaCtrl
 camzyla-dark            shmimIntegrator
 camzyla-sw		streamWriter
+camzyla-avg             shmimIntegrator
+camzyla-fit             pupilFit
+camzyla-slopes          pwfsSlopeCalc
 cam4p                   baslerCtrl
 cam4p-dark              shmimIntegrator
 cam4p-sw                streamWriter
