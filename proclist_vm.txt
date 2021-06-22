@@ -1,5 +1,5 @@
 # Process         Executable
-vm_toc_indi         sshDigger
+vm_tic_indi         sshDigger
 # bandwidth hungry:
 # mzmqClientTOC_TIC  mzmqClient
 toc_tic_milkzmq      sshDigger
