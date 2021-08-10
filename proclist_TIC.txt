@@ -5,13 +5,13 @@ pdu0                    trippLitePDU
 usbdu0                  acronameUsbHub
 camtip                  baslerCtrl
 camtip-dark             shmimIntegrator
-camtip-sw               streamWriter
+# camtip-sw               streamWriter
 camzwfs                 baslerCtrl
 camzwfs-dark            shmimIntegrator
-camzwfs-sw              streamWriter
+# camzwfs-sw              streamWriter
 camlgsfp               baslerCtrl
 camlgsfp-dark           shmimIntegrator
-camlgsfp-sw             streamWriter
+# camlgsfp-sw             streamWriter
 mzmqServerTIC           mzmqServer
 mzmqServerTIC_Remote    mzmqServer
 dmkilo                  bmcCtrl
