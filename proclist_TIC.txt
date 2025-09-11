@@ -17,3 +17,4 @@ mzmqServerTIC_Remote    mzmqServer
 dmkilo                  bmcCtrl
 kiloModes               dmMode
 tic_toc_indi            sshDigger
+rh1k                    rhusbMon
