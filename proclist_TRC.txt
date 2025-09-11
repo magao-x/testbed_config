@@ -1,0 +1,8 @@
+#Processes for the MagAO-X AOC
+#process-ID       Executable
+isTRC             xindiserver
+trc_aoc_indi      sshDigger
+trc_icc_indi      sshDigger
+trc_rtc_indi      sshDigger
+trc_aoc_mzmq      sshDigger
+#mzmqClientTRC_AOC  mzmqClient
