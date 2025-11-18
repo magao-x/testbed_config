@@ -5,4 +5,9 @@ trc_aoc_indi      sshDigger
 trc_icc_indi      sshDigger
 trc_rtc_indi      sshDigger
 trc_aoc_mzmq      sshDigger
+trc_aoc_mzmq_camwfs sshDigger
+
+trc_aoc_sup       sshDigger
+trc_aoc_log       sshDigger
+
 #mzmqClientTRC_AOC  mzmqClient
