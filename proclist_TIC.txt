@@ -21,3 +21,4 @@ dmkilo                  bmcCtrl
 kiloModes               dmMode
 tic_toc_indi            sshDigger
 rhkilo                    rhusbMon
+kiloSpeck               dmSpeckle
