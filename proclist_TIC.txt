@@ -11,9 +11,14 @@ camzwfs-dark            shmimIntegrator
 # camzwfs-sw              streamWriter
 camlgsfp               baslerCtrl
 camlgsfp-dark           shmimIntegrator
+
+###camham #####
 camham                  hamCtrl
 camham-dark             shmimIntegrator
+camham-avg              shmimIntegrator
 camham-sw               streamWriter
+
+
 # camlgsfp-sw             streamWriter
 mzmqServerTIC           mzmqServer
 mzmqServerTIC_Remote    mzmqServer
