@@ -18,6 +18,12 @@ camham-dark             shmimIntegrator
 camham-avg              shmimIntegrator
 camham-sw               streamWriter
 
+###hamsci #####
+hamsci                  orcaCtrl
+hamsci-dark             shmimIntegrator
+hamsci-avg              shmimIntegrator
+hamsci-sw               streamWriter
+
 
 # camlgsfp-sw             streamWriter
 mzmqServerTIC           mzmqServer
